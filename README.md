@@ -8,4 +8,4 @@
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 
 ![JvPaciello's GitHub stats](https://github-readme-stats.vercel.app/api?username=JvPaciello&show_icons=true&theme=neon)
-![JvPaciello's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={JvPaciello}&theme=blue-green)
+![JvPaciello's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JvPaciello&theme=blue-green)
